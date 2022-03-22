@@ -1,2 +1,2 @@
 # Simple_Email_template
-simple email template
+Responsive Email design template
